@@ -137,6 +137,9 @@ CustomNotifyStyle style = new CustomNotifyStyle ();
   ```
 
 **Please refer to the Demo.cs in the git and know the detail usage**
+
 **Finally, if you have any other questions, please contact us on 7x24 hours.We will provide FREE Technical supports:**
+
 **Service QQ : 4006852216** 
+
 **Email : support@mob.com**
