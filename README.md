@@ -1,7 +1,7 @@
 # MobPush-For-Unity
 ### 这是基于[MobPush SDK](http://mobpush.mob.com/)对Unity支持的一套插件。能帮助Unity开发者快速通过Unity调用MobPush SDK的原生接口。
 
-**集成文档**
+**集成文档** 中文|[English](https://github.com/orangetell/MobPush-For-Unity/blob/master/README_EN.md)
 
 - [iOS](http://wiki.mob.com/mobpush-ios-for-unity3d/)
 - [Android](http://wiki.mob.com/mobpush-android-for-unity/)
